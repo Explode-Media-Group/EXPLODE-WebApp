@@ -94,9 +94,11 @@ Follow these steps to set up the Explode music streaming platform locally.
 ### Clone the Repository
 
 ```
-git clone https://github.com/yourusername/explode.git
+git clone https://github.com/Explode-Media-Group/EXPLODE-WebApp.git
 cd explode
 ```
+*Server must be installed!*
+
 
 ### Frontend Setup
 
